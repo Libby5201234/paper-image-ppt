@@ -1,0 +1,4 @@
+interface:
+  display_name: "医学科研配图规划"
+  short_description: "规划SCI论文、医学实验和医学科普PPT的专业配图方案"
+  default_prompt: "使用 $paper-image-ppt 根据我的医学正文规划图文对应关系并生成中英文配图提示词。"
